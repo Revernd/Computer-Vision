@@ -1,5 +1,5 @@
 .vscode
 
-YOLOv1/data/
+YOLOv1/data/images/
 
-YOLOv1/__pycache__/
+./YOLOv1/__pycache__/
